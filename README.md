@@ -145,10 +145,10 @@ We welcome contributions from the community to enhance the College Management Sy
 
 ## Contributors:
 The College Management System project is maintained by the following contributors:
-```
+
     https://github.com/KarthikS373
     https://github.com/deep-69bits
-```
+
 
 
 
@@ -159,8 +159,8 @@ The College Management System is released under the License: https://github.com/
 
 
 ## Links:
->Project repository: https://github.com/iiitl/college-management
->Issue tracker: https://github.com/iiitl/college-management/issues
->License: https://github.com/iiitl/college-management/blob/master/License
+1. Project repository: https://github.com/iiitl/college-management
+2. Issue tracker: https://github.com/iiitl/college-management/issues
+3. License: https://github.com/iiitl/college-management/blob/master/License
 
 

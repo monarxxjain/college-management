@@ -63,6 +63,8 @@ After signing up, users need to verify their profile by providing additional inf
 Once the profile is verified, users can login using their credentials on subsequent visits to access the features and functionality of the College Management System.
 
 
+
+
 ## Details:
 The College Management System includes various features and functionality, including but not limited to:
 
@@ -80,6 +82,8 @@ The system provides features for managing courses offered by the college, includ
 The system includes functionality for tracking attendance of students and faculty, including generating reports and notifications for attendance discrepancies.
 ### Announcement and Notification: 
 The system allows for announcements and notifications to be sent to students, faculty, and other users, keeping them updated about important events, deadlines, and announcements.
+
+
 
 
 ## Language and Code Explanations:
@@ -119,6 +123,8 @@ The College Management System is built using React Framework for Frontend and No
  This makes it easier to understand, debug, and extend the college management system in the future.
 
 
+
+
 ## Contributing:
 We welcome contributions from the community to enhance the College Management System. If you would like to contribute, please follow these guidelines:
 
@@ -132,14 +138,20 @@ If you would like to contribute code to the project, please submit pull requests
 Please follow the coding standards and conventions used in the project to maintain consistency and readability of the code.
 
 
+
+
 ## Contributors:
 The College Management System project is maintained by the following contributors:
 https://github.com/KarthikS373
 https://github.com/deep-69bits
 
 
+
+
 ## License:
 The College Management System is released under the License: https://github.com/iiitl/college-management/blob/master/License and is free to use and modify according to the terms of the license.
+
+
 
 
 ## Links:

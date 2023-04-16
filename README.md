@@ -159,8 +159,8 @@ The College Management System is released under the License: https://github.com/
 
 
 ## Links:
-Project repository: https://github.com/iiitl/college-management
-Issue tracker: https://github.com/iiitl/college-management/issues
-License: https://github.com/iiitl/college-management/blob/master/License
+>Project repository: https://github.com/iiitl/college-management
+>Issue tracker: https://github.com/iiitl/college-management/issues
+>License: https://github.com/iiitl/college-management/blob/master/License
 
 

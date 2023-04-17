@@ -9,7 +9,7 @@ const HomePage = () => {
   return (
     <div>
       <Header isLogin="false" name="User" />
-      <CallToAction />
+      <CallToAction />     
       <Footer />
     </div>
   )

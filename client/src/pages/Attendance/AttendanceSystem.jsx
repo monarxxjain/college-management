@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import Calendar from "react-calendar";
+
 import "./AttendanceSystem.css";
 import "./Cal.css";
+
 import AttendanceManagementSystem from "./AttendanceManagementSystem";
 
 const AttendanceSystem = () => {

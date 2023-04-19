@@ -12,8 +12,10 @@ const HomePage = () => {
   return (
     <div>
       <Header isLogin="false" name="User" />
+
       <Hero />
       <CallToAction />
+
       <Footer />
     </div>
   )

@@ -504,8 +504,7 @@ form, .form {
 	}
 	div.form{
 		margin-left: 30px;
-		width: 360px;
-
+		width: 400px;
 		margin-top: 45px;
 		padding-left: 0px;
 	}
@@ -570,7 +569,7 @@ form, .form {
 .Login_cross:hover,.Login_cross2:hover{
 	color: white;
 	background-color: black;
-	cursor:pointer;
+	cursor:pointer
 }
 .Login_cross2{
 	text-align: right;
